@@ -1,1 +1,1 @@
-# INF1010
+INF1010 - Object Oriented Programming in C++
